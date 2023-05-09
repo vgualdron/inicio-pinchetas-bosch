@@ -23,5 +23,9 @@ export default {
   @import '~bootstrap-vue/dist/bootstrap-vue.css';
   // Import Main styles for this application
   @import './assets/scss/style';
+
+  @import '~alertifyjs/build/css/alertify.min.css';
+  @import '~alertifyjs/build/css/themes/default.min.css';
 </style>
+
 
